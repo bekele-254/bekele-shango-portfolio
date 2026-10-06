@@ -1,12 +1,12 @@
 # bekele-shango-portfolio
-Professional portfolio showcasing Bekele Shango's backround, skills, interest and career goals
+## Professional portfolio
 # BEKELE SHANGO
 
 ## Geography & Business
 
 ### Professional Portfolio
 
-Welcome to the professional portfolio of **Bekele Shango**, a Geography and Business student at Moi University, with professional interests in education, business management, tourism, research, and data analysis.
+Welcome to the professional portfolio of **Bekele Shango**, an inspiring professional with an academic backround in Geography and Business and interest in Education, business management, tourism, research and data analysis
 
 ---
 
